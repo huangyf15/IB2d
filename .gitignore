@@ -3,7 +3,6 @@
 # Files with large data and executable program
 # ========================
 *bin/
-*x_project/
 *.m~
 
 # =========================
